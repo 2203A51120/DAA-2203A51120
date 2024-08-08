@@ -14,3 +14,5 @@ week2-1: https://github.com/2203A51120/DAA-2203A51120/blob/main/week2-1.c
 week2-2: https://github.com/2203A51120/DAA-2203A51120/blob/main/week2-2.c
 
 week2-3: https://github.com/2203A51120/DAA-2203A51120/blob/main/week2-3.c
+
+binary search:https://github.com/2203A51120/DAA-2203A51120/blob/main/binary%20search.c
